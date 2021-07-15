@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Chowd3r
+- Im originaly from South Africa, but am now staying in the UK
+- Im 20 Years old
+- 👀 I’m interested in ...
+- Interested in learning more programming, and have good knowledge on Borland Delphi
+- 🌱 I’m currently learning ...
+- i'm currently learning Python
+- 📫 How to reach me ...
+- hanrouxvos20@gmail.com
